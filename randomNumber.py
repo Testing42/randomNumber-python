@@ -1,5 +1,4 @@
 import random, sys
-count = 0
 print('Do you want a random number between 1-10')
 print('Please type yes or no')
 answer = input()
